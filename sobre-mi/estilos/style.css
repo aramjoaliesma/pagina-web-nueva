@@ -98,6 +98,47 @@ section {
     flex: 1;
 }
 
+.menu {
+    position: relative;
+    width: 150px;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.menu-toogle {
+    background-color: var(--color-panel);
+    color: var(--color-texto);
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.menu-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-panel);
+    border-radius: 8px;
+    display: none;
+    overflow: hidden;
+}
+
+.menu-list li a {
+    display: block;
+    padding: 10px 15px;
+    color: var(--color-texto);
+    text-decoration: none;
+}
+
+.menu-list li a:hover {
+    background-color: var(--color-principal);
+}
+
+.menu:hover .menu-list {
+    display: block;
+}
+
 footer {
     text-align: center;
     background: #1a1a2e;
