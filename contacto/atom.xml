@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://aramjoaliesma.github.io/portfolio/">
+    <id>https://aramjoaliesma.github.io/portfolio/</id>
+    
+    <title>Portfolio de José Arenas - Atom Feed</title>
+    
+    <updated>2026-01-27T12:30:00+01:00</updated>
+    
+    <link rel="self" href="atom.xml"/>
+    <link rel="alternate" href="index.html"/>
+    
+    <author>
+        <name>José Arenas</name>
+        <email>aramjo_aliesma2324@iesmedinaazahara.es</email>
+    </author>
+    
+    <category term="Portafolio"/>
+    <category term="Administración de Sistemas"/>
+    
+    <logo>imagenes/logo.png</logo>
+
+    <entry>
+        <id>https://aramjoaliesma.github.io/portfolio/sobre-mi/index.html</id>
+        <title>Sobre mí: Perfil de Administrador de Sistemas</title>
+        <updated>2026-01-27T10:00:00+01:00</updated>
+        <author>
+            <name>José Arenas</name>
+            <email>aramjo_aliesma2324@iesmedinaazahara.es</email>
+        </author>
+        <summary>Soy José, estudiante de ASIR. Me apasiona la administración de servidores, la virtualización y redes. Conoce más sobre mi formación y habilidades en Linux y Windows.</summary>
+        <link rel="alternate" href="sobre-mi/index.html"/>
+    </entry>
+
+    <entry>
+        <id>https://aramjoaliesma.github.io/portfolio/proyectos/index.html</id>
+        <title>Mis Proyectos: Desarrollo Web y Sistemas</title>
+        <updated>2026-01-27T11:15:00+01:00</updated>
+        <author>
+            <name>José Arenas</name>
+        </author>
+        <summary>Galería de proyectos realizados, incluyendo este sitio web personal desarrollado con HTML5 y CSS3, y futuras implementaciones de infraestructura IT.</summary>
+        <link rel="alternate" href="proyectos/index.html"/>
+    </entry>
+
+</feed>

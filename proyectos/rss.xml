@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Portfolio de José Arenas</title>
+    <link>https://aramjoaliesma.github.io/portfolio/index.html</link>
+    <description>Portfolio personal de José Arenas - Administrador de Sistemas y Estudiante de ASIR</description>
+    <category>informática/sistemas/redes</category>
+    <copyright>2025 José Arenas - Todos los derechos reservados</copyright>
+    <image>
+        <url>https://aramjoaliesma.github.io/portfolio/imagenes/logo.png</url>
+        <title>Portfolio de José Arenas</title>
+        <link>https://aramjoaliesma.github.io/portfolio/index.html</link>
+        <width>32</width>
+        <height>32</height>
+    </image>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 27 Jan 2026 12:00:00 +0100</lastBuildDate>
+    <webMaster>aramjo_aliesma2324@iesmedinaazahara.es</webMaster>
+
+    <item>
+        <title>Sobre mí</title>
+        <description>Información personal sobre José Arenas: Administrador de Sistemas, conocimientos en Windows, Linux, Docker y formación académica en IES Medina Azahara.</description>
+        <link>https://aramjoaliesma.github.io/portfolio/sobre-mi/index.html</link>
+        <author>aramjo_aliesma2324@iesmedinaazahara.es</author>
+        <category>perfil</category>
+        <pubDate>Tue, 27 Jan 2026 10:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+        <title>Mis Proyectos</title>
+        <description>Galería de proyectos realizados, incluyendo sitio web personal maquetado con HTML y CSS.</description>
+        <link>https://aramjoaliesma.github.io/portfolio/proyectos/index.html</link>
+        <author>aramjo_aliesma2324@iesmedinaazahara.es</author>
+        <category>proyectos</category>
+        <enclosure url="https://aramjoaliesma.github.io/portfolio/imagenes/mipagina.png" type="image/png" length="0" />
+        <pubDate>Tue, 27 Jan 2026 10:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+        <title>Contacto</title>
+        <description>Vías de contacto con el administrador a través de correo electrónico institucional.</description>
+        <link>https://aramjoaliesma.github.io/portfolio/contacto/index.html</link>
+        <author>aramjo_aliesma2324@iesmedinaazahara.es</author>
+        <category>contacto</category>
+        <pubDate>Tue, 27 Jan 2026 10:00:00 +0100</pubDate>
+    </item>
+</channel>
+</rss>
